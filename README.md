@@ -1,49 +1,71 @@
-###
-<h1 align="center">Hi, I'm Pedro Belloc 👋</h1>
-<p align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E90FF&width=435&lines=.....WELCOME+TO+MY+PROFILE!....." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Pedro%20Cunha%20Belloc&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20PUCRS&descAlignY=58&descSize=18" width="100%"/>
 
-- 🎓 Computer Science student at PUCRS.
+<a href="https://www.linkedin.com/in/pedro-cunha-belloc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pedrocunhabelloc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- 🚀 Passionate about technology and exploring the field of software development.
-
-<hr>
-
-#### 💻 LANGUAGES AND TOOLS
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  
 </div>
 
-<br>
+---
 
-#### 🌱 CURRENT FOCUS
+## 👋 About me
 
-- Exploring the world of Back-End development.
-- Seeking opportunities for collaboration and learning.
+I'm Pedro, a Computer Science student at PUCRS in Porto Alegre, Brazil.
+I'm mainly interested in data and machine learning, and I've also built some web and Android projects along the way.
 
-<br>
+- Looking for internships in data or ML
+- Languages: Portuguese (native), English (fluent), Japanese (reading), Spanish (listening)
 
-#### 📫 SOCIALS:
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-cunha-belloc/">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-   
+## 🧰 Tech stack
+
+<div align="center">
+
+**Programming languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Data & Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+**Web & tools**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pcbelloc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**[LinkedIn](https://www.linkedin.com/in/pedro-cunha-belloc/) · [Email](mailto:pedrocunhabelloc@gmail.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>

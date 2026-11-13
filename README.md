@@ -15,7 +15,7 @@ I'm Pedro, a Computer Science student at PUCRS in Porto Alegre, Brazil.
 I'm mainly interested in data and machine learning, and I've also built some web and Android projects along the way.
 
 - Looking for internships in data or ML
-- Languages: Portuguese (native), English (fluent), Japanese (reading), Spanish (listening)
+- Languages: Portuguese (native), English (fluent)
 
 ---
 
@@ -52,17 +52,15 @@ I'm mainly interested in data and machine learning, and I've also built some web
 
 ---
 
-## 📊 GitHub stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pcbelloc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pcbelloc/pcbelloc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pcbelloc/pcbelloc/output/github-snake.svg" />
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/pcbelloc/pcbelloc/output/github-snake-dark.svg" width="100%" />
+</picture>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 **[LinkedIn](https://www.linkedin.com/in/pedro-cunha-belloc/) · [Email](mailto:pedrocunhabelloc@gmail.com)**
 
